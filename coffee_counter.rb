@@ -34,3 +34,4 @@ else
 end
 
 #this version still tallies and doesn't return an error when you put something that's not "coffee", "tea", or "cocoa"
+test
